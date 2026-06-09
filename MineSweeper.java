@@ -1,4 +1,3 @@
-//Marianos Prosmitis AM:3163
 public class MineSweeper {
 
     private MineField minefield;
