@@ -1,5 +1,7 @@
 #  Kind of Minesweeper
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Interface](https://img.shields.io/badge/Interface-Console-black?style=for-the-badge)
+![Mode](https://img.shields.io/badge/Mode-2--Player_Multiplayer-blue?style=for-the-badge)
 
 A custom, console-based Java game that flips the rules of classic Minesweeper on its head. Instead of trying to *avoid* mines, **Kind of Minesweeper** is a competitive 2-player hunting game. Players take turns revealing coordinates on a hidden grid; if you find a mine, you score a point! 
 
