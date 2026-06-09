@@ -1,5 +1,3 @@
-//Marianos Prosmitis AM:3163
-
 import java.util.Scanner;
 public class Player {
     String name;
